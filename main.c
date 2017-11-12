@@ -1,5 +1,3 @@
-
-// C Program to design a shell in Linux
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -19,7 +17,7 @@
 void init_shell()
 {
     clear();
-    printf("\nWelcome to My Shell\n\n");
+    printf("\nWelcome to JSHELL\n\n");
 }
  
 // Function to take input
